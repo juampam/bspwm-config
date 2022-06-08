@@ -13,7 +13,7 @@
   Look where is installed your system and then execute:
   Change the *sda* value from your correct partition name.
   ```
-  mount -t vfat /dev/sdb /cdrom
+  sed -i '/cdrom/d' /etc/apt/sources.list
   ```
 - User is not in the sudoers file
   
