@@ -6,12 +6,7 @@
 - Install debian
 ### Solving issues
 - Cannot mount CDROM
-  First, list your disks
-  ```
-  lsblk
-  ```
-  Look where is installed your system and then execute:
-  Change the *sda* value from your correct partition name.
+
   ```
   sed -i '/cdrom/d' /etc/apt/sources.list
   ```
