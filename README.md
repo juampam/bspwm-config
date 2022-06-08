@@ -20,7 +20,7 @@
   ```
   su -
   usermod -aG sudo username
-  reboot
+  shutdown -r now
   ```
   or
 
