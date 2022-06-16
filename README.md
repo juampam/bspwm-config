@@ -12,7 +12,7 @@
   ```
 - User is not in the sudoers file
 - 
-  **Note.** the word username in this file means the username, **is not a command**. 
+  **Note.** the word *"username"* in this file means the username, **is not a command**. 
   ```
   su -
   usermod -aG sudo username
