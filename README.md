@@ -15,12 +15,8 @@
   **Note.** the word *"username"* in this file means the username, **is not a command**. 
   
   ```
-  username=$(whoami)
-  
-  ```
-  ```
   su -
-  usermod -aG sudo $username
+  usermod -aG sudo username
   reboot
   ```
   or
