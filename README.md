@@ -9,9 +9,9 @@
   ```
   nano /etc/apt/sorces.list
   ```
-Comment cdrom line adding #
+  Comment cdrom line adding #
   ```
-  # deb cdrom:[Debian_version_blah_blah.iso]
+   # deb cdrom:[Debian_version_blah_blah.iso]
   ```
 - Cannot mount CDROM
 
