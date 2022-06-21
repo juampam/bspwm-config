@@ -6,13 +6,13 @@
 - Install debian
 ### Solving issues
 - Source in Live instaler
-```
-nano /etc/apt/sorces.list
-```
+  ```
+  nano /etc/apt/sorces.list
+  ```
 Comment cdrom line adding #
-```
-# deb cdrom:[Debian blah blah.iso]
-```
+  ```
+  # deb cdrom:[Debian_version_blah_blah.iso]
+  ```
 - Cannot mount CDROM
 
   ```
