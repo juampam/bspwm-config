@@ -5,6 +5,14 @@
 - Made a booteable pendrive
 - Install debian
 ### Solving issues
+- Source in Live instaler
+```
+nano /etc/apt/sorces.list
+```
+Comment cdrom line adding #
+```
+# deb cdrom:[Debian blah blah.iso]
+```
 - Cannot mount CDROM
 
   ```
