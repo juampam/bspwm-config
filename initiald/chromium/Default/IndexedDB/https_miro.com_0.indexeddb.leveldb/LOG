@@ -1,0 +1,6 @@
+2022/06/22-14:43:23.682 1372 Creating DB /home/juampa/.config/chromium/Default/IndexedDB/https_miro.com_0.indexeddb.leveldb since it was missing.
+2022/06/22-14:43:23.829 1372 Reusing MANIFEST /home/juampa/.config/chromium/Default/IndexedDB/https_miro.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/22-14:43:25.074 1476 Level-0 table #5: started
+2022/06/22-14:43:25.173 1476 Level-0 table #5: 560 bytes OK
+2022/06/22-14:43:25.271 1476 Delete type=0 #3
+2022/06/22-14:43:25.272 e7e Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

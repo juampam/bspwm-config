@@ -1,0 +1,12 @@
+2022/07/13-16:41:04.289 3 Reusing MANIFEST /home/juampa/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2022/07/13-16:41:04.291 3 Recovering log #137
+2022/07/13-16:41:04.291 3 Reusing old log /home/juampa/.config/chromium/Default/Local Storage/leveldb/000137.log 
+2022/07/13-17:01:40.694 c Level-0 table #143: started
+2022/07/13-17:01:40.778 c Level-0 table #143: 22426 bytes OK
+2022/07/13-17:01:40.853 c Delete type=0 #137
+2022/07/13-17:34:37.485 18 Level-0 table #145: started
+2022/07/13-17:34:37.614 18 Level-0 table #145: 15686 bytes OK
+2022/07/13-17:34:37.688 18 Delete type=0 #142
+2022/07/13-17:46:22.008 27 Level-0 table #147: started
+2022/07/13-17:46:22.138 27 Level-0 table #147: 13781 bytes OK
+2022/07/13-17:46:22.212 27 Delete type=0 #144

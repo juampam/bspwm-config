@@ -1,0 +1,61 @@
+{
+   "checksum": "916123455836db3bb5910ff19da8a000",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "0",
+            "guid": "b09e5f37-e87a-4964-920c-da3f10d75c19",
+            "id": "5",
+            "name": "Debian.org",
+            "type": "url",
+            "url": "http://www.debian.org/"
+         }, {
+            "date_added": "0",
+            "guid": "58344274-366b-418e-9486-bf5248b32cdb",
+            "id": "6",
+            "name": "Latest News",
+            "type": "url",
+            "url": "http://www.debian.org/News/"
+         }, {
+            "date_added": "0",
+            "guid": "0622fedd-fadc-42ea-9c60-9863ec6717ad",
+            "id": "7",
+            "name": "Help",
+            "type": "url",
+            "url": "http://www.debian.org/support"
+         }, {
+            "date_added": "13300301715403033",
+            "guid": "6708cd50-b515-408a-9ffb-b2b369fa3143",
+            "id": "9",
+            "name": "NVimTree",
+            "type": "url",
+            "url": "https://github.com/kyazdani42/nvim-tree.lua"
+         } ],
+         "date_added": "13300230598882617",
+         "date_modified": "13300301715403033",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13300230598882621",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13300230598882626",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

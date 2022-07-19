@@ -1,0 +1,7 @@
+2022/06/21-17:52:26.309 1b7e79 Reusing MANIFEST /home/juampa/.config/chromium/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/21-17:52:26.309 1b7e79 Recovering log #3
+2022/06/21-17:52:26.309 1b7e79 Reusing old log /home/juampa/.config/chromium/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/000003.log 
+2022/06/21-17:53:44.281 1b9972 Level-0 table #5: started
+2022/06/21-17:53:44.330 1b9972 Level-0 table #5: 14949 bytes OK
+2022/06/21-17:53:44.415 1b9972 Delete type=0 #3
+2022/06/21-17:53:44.415 1b9972 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,70 @@
+Error while parsing hooks JSON. Error: "ENOENT: no such file or directory, open '/home/juampa/.config/Microsoft/Microsoft Teams/hooks.json'"
+(node:996) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(node:996) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 ecsSettingsUpdated listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+(node:996) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 appInitialized listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+
+(teams:996): libnotify-WARNING **: 14:20:40.791: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 14:20:40.793: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 14:20:40.796: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 14:23:57.886: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 14:23:57.888: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 14:23:57.890: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 14:25:40.896: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 14:25:40.899: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 14:25:40.900: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 14:26:01.460: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 14:26:01.462: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 14:26:01.464: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 14:26:08.877: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 14:26:08.879: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 14:26:08.880: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 14:26:09.928: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 14:26:09.929: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 14:26:09.932: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 15:33:01.197: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 15:33:01.198: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 15:33:01.200: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 15:33:01.946: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 15:33:01.948: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 15:33:01.950: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 15:33:26.357: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 15:33:26.359: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 15:33:26.360: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 15:46:53.072: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 15:46:53.073: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 15:46:53.074: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 17:00:33.246: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 17:00:33.264: Failed to connect to proxy
+
+(teams:996): libnotify-WARNING **: 17:00:33.265: Failed to connect to proxy

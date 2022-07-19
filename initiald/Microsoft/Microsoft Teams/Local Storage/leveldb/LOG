@@ -1,0 +1,6 @@
+2022/07/13-17:52:58.932 a861 Reusing MANIFEST /home/juampa/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2022/07/13-17:52:58.932 a861 Recovering log #3
+2022/07/13-17:52:58.932 a861 Reusing old log /home/juampa/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/000003.log 
+2022/07/13-17:53:08.851 453 Level-0 table #5: started
+2022/07/13-17:53:08.908 453 Level-0 table #5: 67043 bytes OK
+2022/07/13-17:53:09.006 453 Delete type=0 #3

@@ -1,0 +1,14 @@
+2022/07/18-08:47:49.745 5 Reusing MANIFEST /home/juampa/.config/chromium/Default/Session Storage/MANIFEST-000001
+2022/07/18-08:47:50.107 5 Recovering log #58
+2022/07/18-08:47:50.199 5 Level-0 table #61: started
+2022/07/18-08:47:50.547 5 Level-0 table #61: 18718 bytes OK
+2022/07/18-08:47:50.799 5 Delete type=0 #58
+2022/07/18-08:47:50.800 3 Compacting 4@0 + 1@1 files
+2022/07/18-08:47:51.331 3 Generated table #63@0: 2602 keys, 55341 bytes
+2022/07/18-08:47:51.331 3 Compacted 4@0 + 1@1 files => 55341 bytes
+2022/07/18-08:47:51.819 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/07/18-08:47:51.843 3 Delete type=2 #61
+2022/07/18-08:47:51.843 3 Delete type=2 #55
+2022/07/18-08:47:51.843 3 Delete type=2 #53
+2022/07/18-08:47:51.844 3 Delete type=2 #57
+2022/07/18-08:47:51.844 3 Delete type=2 #59
