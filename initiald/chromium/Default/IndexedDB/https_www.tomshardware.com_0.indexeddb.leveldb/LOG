@@ -1,6 +1,0 @@
-2022/07/13-13:22:50.817 11ca Creating DB /home/juampa/.config/chromium/Default/IndexedDB/https_www.tomshardware.com_0.indexeddb.leveldb since it was missing.
-2022/07/13-13:22:50.963 11ca Reusing MANIFEST /home/juampa/.config/chromium/Default/IndexedDB/https_www.tomshardware.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/07/13-13:35:20.015 17a5 Level-0 table #5: started
-2022/07/13-13:35:20.064 17a5 Level-0 table #5: 181232 bytes OK
-2022/07/13-13:35:20.138 17a5 Delete type=0 #3
-2022/07/13-13:35:20.139 17a5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,6 +1,0 @@
-2022/06/23-09:01:11.982 1892 Creating DB /home/juampa/.config/chromium/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb since it was missing.
-2022/06/23-09:01:12.204 1892 Reusing MANIFEST /home/juampa/.config/chromium/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/MANIFEST-000001
-2022/06/23-09:01:48.498 189e Level-0 table #5: started
-2022/06/23-09:01:48.667 189e Level-0 table #5: 67961 bytes OK
-2022/06/23-09:01:48.741 189e Delete type=0 #3
-2022/06/23-09:01:48.742 189e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
