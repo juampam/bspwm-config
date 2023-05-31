@@ -1,3 +1,9 @@
+# Easy WM setup
+
+With this tool we can write in a few steps all the configuration files.
+
+
+
 # bspwm-config
 ## Installing BSPWM on Debian
 ### Installing Debian
