@@ -1,7 +1,0 @@
-#!/bin/bash
-
-sed -i "s/\[//g" LOG.csv
-sed -i "s/\]//g" LOG.csv
- 
-cat LOG.csv | sort |uniq -c | sort -nr | head -10
-

@@ -1,5 +1,0 @@
-#!/bin/bash
-
-while read p; do
-	rgbtohex $p >> testingfile
-done < newfile
