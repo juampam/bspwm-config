@@ -40,6 +40,4 @@ With this tool we can write in a few steps all the configuration files.
   ```
   adduser username sudo
   ```
- ## Installing BSPWM
-  comming soon xd
 
