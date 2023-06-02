@@ -6,7 +6,8 @@ With this tool we can write in a few steps all the configuration files.
 - select an image
 - enjoy your WM
 
-## Installing BSPWM on Debian
+## Installing manual
+
 ### Installing Debian
 - Get the ISO file in the official site.
 - Made a booteable pendrive
