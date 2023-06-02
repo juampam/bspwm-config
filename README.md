@@ -23,7 +23,6 @@ After that, based on the selected image, the prograsm will set the colors to the
 
 Note:
 Some of these actions are not ready yet.
-Currently, the example configuration files loaded here, just work with BSPWM
 
 ## Installing manual
 
