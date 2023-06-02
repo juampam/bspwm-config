@@ -38,7 +38,7 @@ fn main() {
         let mut should_add_color = true;
 
         for common_color in &most_common_colors {
-            if color_distance(&color_hex, &common_color) < 50.0 {
+            if color_distance(&color_hex, &common_color) < 128.04 {
                 should_add_color = false;
                 break;
             }
