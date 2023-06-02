@@ -1,13 +1,13 @@
 # Easy WM setup
 <div align="center">
-
 ![Commit Activity](https://img.shields.io/github/commit-activity/w/juampam/bspwm-config?style=for-the-badge)
 ![Contributors](https://img.shields.io/github/contributors/juampam/bspwm-config?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-Rust-orange?style=for-the-badge)
 ![repo size](https://img.shields.io/github/repo-size/juampam/bspwm-config?style=for-the-badge)
-
 </div>     
+
 With this tool we can write in a few steps all the configuration files.
+
 ## Steps
 - Run the `setup.sh` script
 - select an image
