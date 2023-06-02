@@ -1,10 +1,11 @@
 # Easy WM setup
 
 With this tool we can write in a few steps all the configuration files.
+## Steps
+- Run the `setup.sh` script
+- select an image
+- enjoy your WM
 
-
-
-# bspwm-config
 ## Installing BSPWM on Debian
 ### Installing Debian
 - Get the ISO file in the official site.
