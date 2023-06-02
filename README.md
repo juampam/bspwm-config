@@ -3,7 +3,7 @@
 
 ![Commit Activity](https://img.shields.io/github/commit-activity/w/juampam/bspwm-config?style=for-the-badge)
 ![Contributors](https://img.shields.io/github/contributors/juampam/bspwm-config?style=for-the-badge)
-![Licence](https://img.shields.io/github/license/juampam/bspwm-config?style=for-the-badge)
+![Languages](https://img.shields.io/badge/Languages-JavaScript-blue)
 ![repo size](https://img.shields.io/github/repo-size/juampam/bspwm-config?style=for-the-badge)
 
 </div>     
