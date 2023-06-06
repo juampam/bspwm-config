@@ -1,0 +1,17 @@
+#!/bin/bash
+readarray -t themes <<< "$(ls ../garden/seeds)"
+readarray -t files <<< "$(ls testing)"
+echo ${themes[@]}
+for seed in "${themes[@]}";do
+	if [[ $1 == $seed ]]; then
+	       echo $seed	
+		while read -r line;do 
+			color=$(echo $line | awk -F, '{print $2}')
+			echo $color
+			for file in "${files[@]}"; do
+				echo $color >> testing/$file
+				#sed -i "s/bcgcolor/$color/g" testing/$file
+			done
+		done < ../garden/seeds/$seed
+	fi
+done

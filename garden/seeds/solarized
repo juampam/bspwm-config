@@ -1,0 +1,12 @@
+background,
+current_line
+selection
+foreground
+comment,
+red,#dc322f
+orange,#cb4b16
+yellow,#b58900
+green,#859900
+aqua,#2aa198
+blue,#268bd2
+purple,#6c71c4
