@@ -9,7 +9,9 @@ Example:
 polybar.config:
 - polybar: directory
 - config: file name
-#--
+
+---
+
 kitty.kitty.conf
 - kitty: directory
 - kitty.conf: file name
